@@ -12,3 +12,4 @@ hello Git!
 hello Git!
 hello Git!
 hello Git! master change
+hello Git! hot-fix test
